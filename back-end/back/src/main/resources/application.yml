@@ -1,0 +1,10 @@
+#  端口设置
+server:
+  port: 8233
+#  数据库设置
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/users?serverTimezone=GMT%2b8
+    username: root
+    password: 123456

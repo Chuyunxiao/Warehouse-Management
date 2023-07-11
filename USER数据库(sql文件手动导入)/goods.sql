@@ -1,0 +1,12 @@
+INSERT INTO `goods`(`id`, `name`, `storage`, `goodsType`, `count`, `remark`) VALUES (1, '钢笔', 1, 1, 200, '');
+INSERT INTO `goods`(`id`, `name`, `storage`, `goodsType`, `count`, `remark`) VALUES (2, '吉他', 1, 5, 150, '');
+INSERT INTO `goods`(`id`, `name`, `storage`, `goodsType`, `count`, `remark`) VALUES (3, '抽纸', 2, 4, 500, '包含清风、洁柔、维达/Vinda、心相印、泉林本色');
+INSERT INTO `goods`(`id`, `name`, `storage`, `goodsType`, `count`, `remark`) VALUES (4, '月饼', 2, 3, 200, '');
+INSERT INTO `goods`(`id`, `name`, `storage`, `goodsType`, `count`, `remark`) VALUES (5, '篮球', 1, 2, 350, '唱跳rap必备');
+INSERT INTO `goods`(`id`, `name`, `storage`, `goodsType`, `count`, `remark`) VALUES (6, 'A4纸', 3, 1, 2620, '');
+INSERT INTO `goods`(`id`, `name`, `storage`, `goodsType`, `count`, `remark`) VALUES (7, '口琴', 3, 5, 500, '');
+INSERT INTO `goods`(`id`, `name`, `storage`, `goodsType`, `count`, `remark`) VALUES (8, '辣条', 2, 3, 550, '');
+INSERT INTO `goods`(`id`, `name`, `storage`, `goodsType`, `count`, `remark`) VALUES (9, '乒乓球', 3, 2, 1500, '');
+INSERT INTO `goods`(`id`, `name`, `storage`, `goodsType`, `count`, `remark`) VALUES (10, '纸盒', 3, 4, 1500, '大小100*200*300(cm)');
+INSERT INTO `goods`(`id`, `name`, `storage`, `goodsType`, `count`, `remark`) VALUES (11, '手风琴', 1, 5, 450, '');
+INSERT INTO `goods`(`id`, `name`, `storage`, `goodsType`, `count`, `remark`) VALUES (12, '修正带', 1, 1, 500, '');
